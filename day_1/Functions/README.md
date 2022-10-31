@@ -4,5 +4,7 @@ This folder contains practice of functions that:
 # Change properties of elements in the DOM
 # Remove elements from the DOM
 # Use local storage
+# Use while loops
+# Use if/else statements 
 
 
