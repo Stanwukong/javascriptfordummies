@@ -1,0 +1,1 @@
+# This is day 3 of familiarizing myself with basic JavaScript
