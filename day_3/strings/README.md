@@ -7,3 +7,4 @@ So today I used a couple more methods of slicing strings instead of just using t
 
 I also practiced other string methods as well.
 .replace() = The replace() method replaces a specified value with another value in a string
+.split() = A string can be converted to an array with the split() method
