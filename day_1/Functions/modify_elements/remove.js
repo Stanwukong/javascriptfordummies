@@ -10,7 +10,7 @@ test3 = document.createElement('p')
 test3.innerHTML = 'This is another addition'
 
 test4 = document.createElement('p')
-test4.innerHTML = 'Note to self, learn Flexbox'
+test4.innerHTML = 'You can\'t stop me || Muhahahah'
 
 
 test1.appendChild(test2)
