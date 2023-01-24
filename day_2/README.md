@@ -1,0 +1,1 @@
+Day 2 of familiarizing myself with basic JavaScript
