@@ -1,14 +1,12 @@
 import styles from '../styles/Banner.module.css';
+import { Button, ButtonGroup } from '@chakra-ui/react'
 
-const Banner = () => {
-
-	const title = "Be notified when items on your wishlist are on sale.";
-
+const Banner = ({ title, buttonText }) => {
 
 	return ( 
 		<div className={styles.container}>
 			<h1>{title}</h1>
-			<button className={styles.button}>Get Price Alerts</button>
+			<Button colorScheme='black' className={styles.button}>{buttonText}</Button>
 		</div>
 	 );
 }
