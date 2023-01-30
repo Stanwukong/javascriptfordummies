@@ -1,0 +1,27 @@
+.container {
+	padding: 10px;
+}
+
+.photo {
+	border-radius: 10px;
+}
+
+.name {
+	font-size: medium;
+	font-weight: 400;
+	margin-top: 1vh;
+}
+
+.price {
+	font-weight: 700;
+	margin: 0;
+}
+
+.title {
+	font-size: x-large;
+	font-weight: 600;
+	margin: 2vh 0;
+}
+
+
+
