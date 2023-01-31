@@ -13,7 +13,7 @@ const Navbar = () => {
 				<button>NGN{}</button>
 			</div>
 			<div>
-				<a href="#">INSPIRATIONS</a>
+				<a href="/inspiration">INSPIRATIONS</a>
 				<a href="#">PROFILE</a>
 			</div>
 		</div>

@@ -11,6 +11,7 @@ import Sellers from '<lykdat>/components/Sellers'
 import Searches from '<lykdat>/components/Searches'
 import Feedback from '<lykdat>/components/Feedback'
 import Footer from '<lykdat>/components/Footer'
+import Profile from '<lykdat>/components/Profile'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -23,7 +24,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
+      <Profile/>
       <Navbar/>
       <Banner title="Be notified when items on your wishlist are on sale." buttonText="Get Price Alerts"/>
       <Landing/>
